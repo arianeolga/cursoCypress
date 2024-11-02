@@ -1,0 +1,22 @@
+{
+    "usuarios":[
+        {
+            "name":"Aline",
+            "email":"aline@123.com",
+            "password":"1234Ab12345"
+        },
+        {
+            "name":"Beatriz",
+            "email":"beatriz@123.com",
+            "password":"1234Ab12345"
+        },
+        {
+            "name":"Carla",
+            "email":"carla@123.com",
+            "password":"1234Ab12345"
+        }
+    ]
+
+
+
+}
